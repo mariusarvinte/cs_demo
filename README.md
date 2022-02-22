@@ -2,6 +2,10 @@ Minimalistic code for fast, near-optimal CDL-X channel estimation, showcasing th
 
 The algorithm used is an in-house, optimized version of the ```fsAD``` algorithm from https://arxiv.org/pdf/1709.06832.pdf (no original source code is available).
 
+# Google Colab
+(may require you to create a ```data``` folder and place the data file in)
+https://colab.research.google.com/drive/1exGfyqZ_sae-63vdqS-NndRRsZ9D136X?usp=sharing
+
 # Requirements
 0. Create a new conda environment ```conda create -n fsad``` and activate it ```conda activate fsad```.
 1. Install SigPy - https://sigpy.readthedocs.io/en/latest/ - using ```conda install -c frankong sigpy```.
