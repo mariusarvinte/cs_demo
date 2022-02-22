@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1exGfyqZ_sae-63vdqS-NndRRsZ9D136X?usp=sh
 
 # Requirements
 0. Create a new conda environment ```conda create -n fsad``` and activate it ```conda activate fsad```.
-1. Install SigPy - https://sigpy.readthedocs.io/en/latest/ - using ```conda install -c frankong sigpy```.
+1. Install SigPy - https://sigpy.readthedocs.io/en/latest/ - using ```pip install sigpy```.
 2. Install the remainder of packages with Anaconda: ```numpy```, ```matplotlib```, ```scipy```, ```tqdm```, ```h5py```.
 
 # Instructions
