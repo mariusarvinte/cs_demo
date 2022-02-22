@@ -8,7 +8,7 @@ The algorithm used is an in-house, optimized version of the ```fsAD``` algorithm
 2. Install the remainder of packages with Anaconda: ```numpy```, ```matplotlib```, ```scipy```, ```tqdm```, ```h5py```.
 
 # Instructions
-All the code is click to run and by default performs channel estimation on CDL-A channels of size ```16 x 64```, with a pilot density of ```0.6```.
+All the code is click-to-run and by default performs channel estimation on CDL-A channels of size ```16 x 64```, with a pilot density of ```0.6```, on a wide range of SNR values.
 
 1. Run ```main.py```.
 2. (Optional, if you prefer notebooks) Run ```demo.ipynb```.
