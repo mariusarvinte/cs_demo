@@ -1,4 +1,4 @@
-Minimalistic code for fast, near-optimal CDL-X channel estimation, showcasing the research perils of synthetic data.
+Minimalistic code for fast, near-optimal CDL-X channel estimation, showcasing the research perils of synthetic data and serving as a tough-to-beat baseline for deep learning.
 
 The algorithm used is an in-house, optimized version of the ```fsAD``` algorithm from https://arxiv.org/pdf/1709.06832.pdf (no original source code is available).
 
